@@ -1,10 +1,8 @@
-# Scrapping Berita mengenai Hubungan Kejaksaan - Polri
+# Scrapping Berita mengenai Analisis Sentimen & Tren Pemberitaan Kasus Korupsi MBG dan Hubungan Antar Lembaga (Kejaksaan & Polri)
 
 Scrapping ini untuk melihat trend berita yang muncul melalui 
 Google Trend dengan memanfaatkan daftar kunci 
 dan memunculkan berita terbaru
-
-# Kajian Kejaksaan: Analisis Sentimen & Tren Pemberitaan Kasus Korupsi MBG dan Hubungan Antar Lembaga (Kejaksaan & Polri)
 
 Repositori ini berisi notebook analisis data (`Kajian_kejaksaan.ipynb`) yang digunakan untuk memproses, membersihkan, dan memvisualisasikan tren pemberitaan media digital terkait Kejaksaan Agung, Kepolisian Republik Indonesia (Polri), serta kasus korupsi proyek Makan Bergizi Gratis (MBG) yang melibatkan tersangka Brigjen Pol Lalu Muhammad Iwan Mahardan.
 
